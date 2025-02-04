@@ -43,4 +43,7 @@ DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
 
 
-DOMAIN,stpy.floridajc.uk
+DOMAIN-SUFFIX,floridajc.uk
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
