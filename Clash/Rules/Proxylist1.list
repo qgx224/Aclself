@@ -62,7 +62,7 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 
-# GFW list
+# G-F-W list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
